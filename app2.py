@@ -15,4 +15,4 @@ elif operator == '/':
 else:
     result = "Error: Invalid operator"
 
-    print(f"The result is: {result}")
+    print(f"The result is.: {result}")
